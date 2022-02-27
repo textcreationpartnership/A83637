@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act of the Commons assembled in Parliament, touching the regulating of the officers of the Navy &amp; Customs. Die Martis, 16 Januarii, 1648. / Ordered by the Commons assembled in Parliament, that the act entituled, An Act of the Commons assembled in Parliament, touching the regulating of the officers of the Navy and Customs, be forthwith printed and published: H: Scobel, Cler. Parl. D. Com.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83637</idno>
+            <idno type="STC">Wing E2509</idno>
+            <idno type="STC">Thomason E538_22</idno>
+            <idno type="STC">ESTC R206052</idno>
+            <idno type="EEBO-CITATION">99865244</idno>
+            <idno type="PROQUEST">99865244</idno>
+            <idno type="VID">117483</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117483)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act of the Commons assembled in Parliament, touching the regulating of the officers of the Navy &amp; Customs. Die Martis, 16 Januarii, 1648. / Ordered by the Commons assembled in Parliament, that the act entituled, An Act of the Commons assembled in Parliament, touching the regulating of the officers of the Navy and Customs, be forthwith printed and published: H: Scobel, Cler. Parl. D. Com.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honourable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 18. 1648. [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Commissioners of Customs --  Law and legislation --  Early works to 1800.</term>
+               <term>England and Wales. --  Royal Navy --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117483:1" rendition="simple:additions"/>
+            <p>AN ACT OF THE COMMONS Aſſembled in PARLIAMENT, TOUCHING The Regulating of the Officers OF THE Navy &amp; Cuſtoms.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis, 16 Januarii, 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons aſſembled in Parliament, That the Act entituled, <hi>An Act of the Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament, touching the Regulating of the Officers of the Navy and Cuſtoms,</hi> be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed:</p>
+                        <closer>
+                           <signed>H: Scobel, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Ho<g ref="char:EOLhyphen"/>norable Houſe of Commons. <hi>Jan.</hi> 18. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117483:2"/>
+            <pb n="3" facs="tcp:117483:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis, 16 Januarii, 1648.</date>
+               </dateline>
+            </opener>
+            <head>An Act of the Commons aſſembled in Parliament, touching the Regu<g ref="char:EOLhyphen"/>lating of the Officers of the Navy &amp; Cuſtoms.</head>
+            <p>THe Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament, taking into their ſerious conſideration the manifold Di<g ref="char:EOLhyphen"/>ſtempers of the Navy, and the great decay of Cuſtoms, occaſioned by evil, malignant, unfaithful and ſupernu<g ref="char:EOLhyphen"/>merary Officers, employed both by Sea and Land, to the great prejudice of the Commonwealth, Do Enact and Ordain, and be it Enacted and Ordained by the Authority of Parlia<g ref="char:EOLhyphen"/>ment, That all Cuſtomers, Com<g ref="char:EOLhyphen"/>ptrollers, Searchers, Surveyors,
+<pb n="4" facs="tcp:117483:3"/>
+Wayters, Collectors, or any other per<g ref="char:EOLhyphen"/>ſon or perſons, that at the time of ma<g ref="char:EOLhyphen"/>king this Act and Ordinance, or that hereafter ſhall hold any office or other place of Truſt in the Cuſtom-houſe of <hi>London,</hi> or in the Cuſtom-houſe in any other Port, Creek or Place within the Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> or Town of <hi>Berwick;</hi> All Offi<g ref="char:EOLhyphen"/>cers of the Ordnance, or Stores, or Proviſions belonging to the Stores, Ordnance, Arms and Ammunition belonging to the Commonwealth; All Commiſſioners, Victuallers of the Navy, and other Officers in or be<g ref="char:EOLhyphen"/>longing to the Victualling-office of or for the Navy of this Kingdom; All Captains, Maſters, Boatſwains, Gunners, Purſers, Ship carpenters, or any other Officer or Commander, belonging to any Ship or Veſſel be<g ref="char:EOLhyphen"/>longing to the Commonwealth; All Officers or other perſons that have any office or place of Truſt in any pub<g ref="char:EOLhyphen"/>like Yard, Dock or Wharf, or other
+<pb n="5" facs="tcp:117483:3"/>
+place belonging to, or concerning the Navy of this Kingdom; All perſons that do or ſhall hold any command, ei<g ref="char:EOLhyphen"/>ther by Sea or Land, in any Ship, Storehouſe or Dock belonging to the Commonwealth, or the Navy of this Kingdom; All Maſters and officers of the <hi>Trinity-houſe,</hi> that hath voluntarily aided or aſſiſted the <hi>King</hi> with moneys, Arms, Plate, Victual or otherwiſe, either by Sea or Land, ſince the year of our Lord 1641. in the former or lat<g ref="char:EOLhyphen"/>ter Wars againſt the Parliament; or that ſince the firſt of <hi>March,</hi> in the year of our Lord 1647. hath contrived, pro<g ref="char:EOLhyphen"/>moted or abetted any of the Petitions or Engagements for the Kings co<g ref="char:EOLhyphen"/>ming to <hi>London;</hi> or that raiſed or abet<g ref="char:EOLhyphen"/>ted any Tumult againſt the Parlia<g ref="char:EOLhyphen"/>ment ſince the 24 of <hi>July,</hi> 1647. within the cities of <hi>London</hi> or <hi>Weſtminſter,</hi> or Liberties thereof, or within the coun<g ref="char:EOLhyphen"/>ties of <hi>Surrey, Kent, Eſſex, Middleſex, Hert<g ref="char:EOLhyphen"/>ford, Cambridge</hi> or <hi>Suſſex;</hi> or that were counſelling, ayding, aſſiſting, abetting
+<pb n="6" facs="tcp:117483:4"/>
+to the Revolt of any the Ships em<g ref="char:EOLhyphen"/>ployed in the ſervice of the Common<g ref="char:EOLhyphen"/>wealth, ſince the firſt of <hi>June,</hi> 1648. or that hath or ſhall imbezle, or ſecretly convey, or ſteal away any Arms, Powder, Cables, Victual, Timber, or other Stores belonging to the Na<g ref="char:EOLhyphen"/>vy of this Kingdom; or that have ta<g ref="char:EOLhyphen"/>ken any Reward or Gift of any Mer<g ref="char:EOLhyphen"/>chant, or other perſon or perſons, of, for or concerning the Cuſtoms, o<g ref="char:EOLhyphen"/>ther then the Fees due and accuſtom<g ref="char:EOLhyphen"/>ed, That then all and every the Of<g ref="char:EOLhyphen"/>ficers and perſons abovenamed, from and after the firſt day of <hi>February</hi> next enſuing, ſhall be, and are hereby Declared, and made incapable and diſinabled to hold any office or place aboveſaid, and his former Office or Place of Truſt, as aboveſaid, to be void and forfeit to all intents and purpoſes. And the Commiſſio<g ref="char:EOLhyphen"/>ners hereafter named, or any five or more of them, ſhall and may nominate and appoint other ſix and able perſons
+<pb n="7" facs="tcp:117483:4"/>
+in the room and place of ſuch Officers and perſons ſo diſinabled as above<g ref="char:EOLhyphen"/>ſaid; and the perſons ſo named and appointed by them, to certifie to the Committee of the Navy: But in caſe the ſaid Offices, or any of them be not neceſſary and uſeful to be continu<g ref="char:EOLhyphen"/>ed, but ſhall be found ſuperfluous and unuſeful, that then the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, or any five of them, ſhall have power to make void and diſcontinue the ſaid place, for the ſaving of unne<g ref="char:EOLhyphen"/>ceſſary charge to the State, and trou<g ref="char:EOLhyphen"/>ble unto Merchants, and carrying on the ſervice to the beſt advantage: And if any perſon or perſons whatſoever, being made incapable as aboveſaid, ſhall yet continue and occupy ſuch place, and not avoid the ſame, That then the ſaid perſon ſo offending, upon due proof made thereof, and his con<g ref="char:EOLhyphen"/>viction thereupon, ſhall forfeit the ſum of Two hundred pounds for the firſt day, and Ten pounds <hi>per diem</hi> for eve<g ref="char:EOLhyphen"/>ry day after that he or they ſhall con<g ref="char:EOLhyphen"/>tinue
+<pb n="8" facs="tcp:117483:5"/>
+in the ſaid place or places. And if any perſon or perſons ſhall refuſe or neglect to pay the ſaid ſum within fourteen days after due proof made of their incapacity as aboveſaid, that then the Eſtate of every ſuch perſon ſhall be Sequeſtred until the Fine be paid; th'one moyety within one Mo<g ref="char:EOLhyphen"/>neth after conviction as aboveſaid, to the Diſcoverer, th'other moyety ſhall within the like ſpace of time be paid in to the Treaſurer for the Navy, for the time being, to be diſpoſed of for the uſe and ſervice of the Navy. And to the intent that this Or<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inance may ſpeedily and impartially be put in exe<g ref="char:EOLhyphen"/>cution, The ſaid Commons in Par<g ref="char:EOLhyphen"/>liament aſſembled do Ordain and Ap<g ref="char:EOLhyphen"/>point, and be it by Authority of Par<g ref="char:EOLhyphen"/>liament Ordained and Appointed, That Alderman <hi>Thomas Andrews,</hi> Mr. <hi>William Barkley,</hi> Mr. <hi>Maurice Thomſon,</hi> Mr. <hi>Richard Shute,</hi> Col: <hi>William Wil<g ref="char:EOLhyphen"/>loughby,</hi> Mr. <hi>William Pennoyer,</hi> Mr. <hi>Samuel Pennoyer,</hi> Mr. <hi>Stephen Eſtwick,</hi>
+               <pb n="9" facs="tcp:117483:5"/>
+Mr. <hi>John Holland,</hi> Mr. <hi>John Langley,</hi> Mr. <hi>Richard Hill,</hi> Major <hi>Robert Thom<g ref="char:EOLhyphen"/>ſon,</hi> Mr. <hi>James Ruſſel,</hi> Mr. <hi>Samuel Moyer,</hi> Mr. <hi>Jonathan Andrews,</hi> and Mr. <hi>Richard Hutchinſon,</hi> who together with the Commiſsioners of the Navy for the time being, ſitting in Mincing-Lane <hi>London,</hi> or any five or more of them, except ſuch of them as are diſinabled by the Act as aboveſaid, ſhall be, and are hereby Declared Commiſsioners; and have full power, and are hereby required and authorized to put this preſent Act and Ordinance in execu<g ref="char:EOLhyphen"/>tion; and have power to ſend for the Officers and perſons abovenamed, or any other perſon or perſons as they ſhall judge neceſſary, as Witneſſes or otherwiſe, and to miniſter and give an Oath to all ſuch the perſons, other then the perſons offending in ſuch caſes reſpectively, wherein they are or ſhall be accuſed before them. And in caſe any perſon or perſons ſummoned to appear before them, or any five of
+<pb n="10" facs="tcp:117483:6"/>
+them as aboveſaid, ſhall neglect or refuſe to appear before them, the ſai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Commiſsioners, or any five or more of them, ſhall have power to ſend for ſuch the perſons in ſafe cuſtody; and all Sheriffs, Majors, Iuſtices, and other Officers, are hereby required to be ayding and aſsiſting to them, and ſuch perſons as are by them em<g ref="char:EOLhyphen"/>ployed as aboveſaid. And it is fur<g ref="char:EOLhyphen"/>ther Declared, Enacted and Ordain<g ref="char:EOLhyphen"/>ed by authority aforeſaid, That all perſons ſo to be named by the ſaid Commiſsioners to the Committee a<g ref="char:EOLhyphen"/>boveſaid, ſhall and may forthwith execute ſuch places to them appointed, until the ſame be otherwiſe ordered and directed by the ſaid Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, or otherwiſe by the Committee of the Navy, for ſome diſability or offence in the party ſo placed as aboveſaid, that ſhall be proved or made known to the ſaid Committee of the Navy. And to the intent that the ſtock of the Navy
+<pb n="11" facs="tcp:117483:6"/>
+may be improved to the utmoſt bene<g ref="char:EOLhyphen"/>fit for the guard of the Seas, It is further Ordered, That the perſons abovenamed, or any five of them, ſhall have power from time to time, to re<g ref="char:EOLhyphen"/>quire of any perſon imployed in any of the Officers aforeſaid, an exact and true Inventory of all the proviſions belonging to the Navy in their hands, and to ſend for and examine their Books of Accompt, that they may be inabled by theſe or any other the like good ways, to inform themſelves of the behavior, fidelity and uſefulneſs of the Officers imployed in this ſervice. And for the better Regulating of the Cuſtoms and Officers thereof throughout the Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Ber<g ref="char:EOLhyphen"/>wick,</hi> the ſaid Committee, or any five of them, ſhall and may have the like full power to call before them, and to take the like accompt and examination of all and every Officer and Officers be<g ref="char:EOLhyphen"/>longing to the ſeveral Cuſtom-houſes
+<pb n="12" facs="tcp:117483:7"/>
+aforeſaid. And it is further Enacted and Ordained, That the ſaid Com<g ref="char:EOLhyphen"/>miſsioners, or any five of them, ſhall have power to examine what Places, Officer or Officers are unuſeful, un<g ref="char:EOLhyphen"/>neceſſary in the Navy or Cuſtoms, or in the office of Victualling and Ord<g ref="char:EOLhyphen"/>nance, and make void the ſaid offices and places; and no Officer or perſon ſhall thenceforth uſe or occupy the ſaid office or place, for the eaſing of the charge of the State: But for ſuch Officers as ſhall be thought fit to be continued, The ſaid Commiſsioners, or any Five of them, are to ſettle and eſtabliſh ſuch a competent increaſe of Sallaries, as may be anſwerable un<g ref="char:EOLhyphen"/>to the pains to be taken, for their maintenance, and whereby they may not be neceſsitated, nor receive any Bribe or Fee of the Merchant, or uſe any other indirect ways to the preju<g ref="char:EOLhyphen"/>dice of the State; and their whole Sallaries to be preſented unto the Houſe of Commons, or the Commit<g ref="char:EOLhyphen"/>tee
+<pb n="13" facs="tcp:117483:7"/>
+of the Navy for their allowance and approbation. And it is further Enacted and Ordained, That from and after the ſame day of <hi>February</hi> next, no Officer or Officers ſhall take or receive from the Merchant, or any other perſon, any moneys by way of Fee or Gratuity, for any Certificate, Bill or Cocket, or other thing what<g ref="char:EOLhyphen"/>ſoever; And in caſe they or any of them ſhall receive any Fee or Gratuity, con<g ref="char:EOLhyphen"/>trary to this Act, upon proof as afore<g ref="char:EOLhyphen"/>ſaid, they ſhall forfeit their places, and incur other penalties aforementioned. And be it Enacted and Ordained by the authority aforeſaid, That the ſaid Committee herein nominated, and all perſons acting for or under them by their direction, ſhall from time to time receive at the hands of the Trea<g ref="char:EOLhyphen"/>ſurer for the Navy, all ſuch expences and disburſments as ſhall be by them iſſued forth in this ſervice; And that the Committee for the Navy appoint<g ref="char:EOLhyphen"/>ed Members of this Houſe, ſhall iſſue
+<pb n="14" facs="tcp:117483:8"/>
+forth their Orders and Warrants for the payment of the ſame accordingly. And laſtly be it Enacted and Ordain<g ref="char:EOLhyphen"/>ed, That the ſaid Committee of Mer<g ref="char:EOLhyphen"/>chants ſhall from time to time have power to preſent to the Lord Admi<g ref="char:EOLhyphen"/>ral or Committee for the Navy, ſuch Ships as they ſhall finde neceſſary to be employed for Convoy of Mer<g ref="char:EOLhyphen"/>chants Ships out and home, for ad<g ref="char:EOLhyphen"/>vancement of Trade, and benefit of the Commonwealth.</p>
+            <closer>
+               <signed>H: Scobel, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117483:8"/>
+            <pb n="14" facs="tcp:117483:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:117483:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
